@@ -1,0 +1,7 @@
+/node_modules
+*sublime*
+/**/.DS_S*
+*.log
+*DS_St*
+/coverage
+/.nyc*
